@@ -24,6 +24,7 @@ public class MethodCreation01 {
         //Ornek 4: Verilen bir tamsayinin karesini hesaplayip console a yazdiran methodu olusturup kullaniniz.
         int sayi =5;
         karesiniAl(sayi);
+        System.out.println("===");
 
     }
 
@@ -46,11 +47,14 @@ public class MethodCreation01 {
         System.out.println(str);
     }
     //Eger bir method yeni bir data uretmiyor ise return type i void olur
-    //methodun return type i void ise method body icinde return keywordu yazilmaz.
+    //methodun return type i void ise method body icinde return keywordu yazilmaz..
         /*
         Homework
         1)Cemberin cevresini hesaplayan methodu olusturunuz ve kullaniniz
         2)Dairenin alinini hesaplayan methodu olusturunuz ve kullaniniz
+
+        selasmm
          */
+
 
 }

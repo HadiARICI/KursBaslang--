@@ -31,13 +31,39 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Scanner01">
+  <component name="RunManager" selected="Application.C03_TeacherRunner">
+    <configuration name="C01_Pratik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03methodobjectcreationscanner.C01_Pratik" />
+      <module name="Bacth171" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day03methodobjectcreationscanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C03_MethodCreation01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day02Variables.C03_MethodCreation01" />
       <module name="Bacth171" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Day02Variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_TeacherRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03methodobjectcreationscanner.C03_TeacherRunner" />
+      <module name="Bacth171" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day03methodobjectcreationscanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,6 +99,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C03_TeacherRunner" />
+        <item itemvalue="Application.C01_Pratik" />
         <item itemvalue="Application.Scanner01" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.C03_MethodCreation01" />
