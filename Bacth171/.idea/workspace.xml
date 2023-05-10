@@ -26,12 +26,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/RAHMET/IdeaProjects/bbbbb",
+    "last_opened_file_path": "C:/Users/RAHMET/IdeaProjects/Bacth171",
     "onboarding.tips.debug.path": "C:/Users/RAHMET/IdeaProjects/Bacth171/src/main/java/org/example/Main.java",
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TypeCasting">
+  <component name="RunManager" selected="Application.StringManipulations01">
     <configuration name="Concatination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day05concatinationoperatortypecasting.Concatination" />
       <module name="Bacth171" />
@@ -45,12 +45,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Spratik01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04scannerwrapper.Spratik01" />
+    <configuration name="StringManipulations01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day06swapvaluesstringmanipulations.StringManipulations01" />
       <module name="Bacth171" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04scannerwrapper.*" />
+          <option name="PATTERN" value="day06swapvaluesstringmanipulations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +58,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Spratik02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04scannerwrapper.Spratik02" />
+    <configuration name="StringManipulations02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day06swapvaluesstringmanipulations.StringManipulations02" />
       <module name="Bacth171" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04scannerwrapper.*" />
+          <option name="PATTERN" value="day06swapvaluesstringmanipulations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day06swapvaluesstringmanipulations.SwapValues" />
+      <module name="Bacth171" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day06swapvaluesstringmanipulations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,26 +97,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04scannerwrapper.WrapperClass" />
-      <module name="Bacth171" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day04scannerwrapper.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringManipulations01" />
+        <item itemvalue="Application.StringManipulations02" />
+        <item itemvalue="Application.SwapValues" />
         <item itemvalue="Application.TypeCasting" />
         <item itemvalue="Application.Concatination" />
-        <item itemvalue="Application.Spratik02" />
-        <item itemvalue="Application.Spratik01" />
-        <item itemvalue="Application.WrapperClass" />
       </list>
     </recent_temporary>
   </component>
