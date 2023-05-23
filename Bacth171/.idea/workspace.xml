@@ -31,39 +31,52 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringManipulation02">
+  <component name="RunManager" selected="Application.P03">
+    <configuration name="P01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayOdev.P01" />
+      <module name="Bacth171" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DayOdev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayOdev.P02" />
+      <module name="Bacth171" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DayOdev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayOdev.P03" />
+      <module name="Bacth171" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DayOdev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringManipulation02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day08stringmanipulationmemoryusageifstatement.StringManipulation02" />
       <module name="Bacth171" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day08stringmanipulationmemoryusageifstatement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringManipulations01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day06swapvaluesstringmanipulations.StringManipulations01" />
-      <module name="Bacth171" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day06swapvaluesstringmanipulations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringManipulations02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day06swapvaluesstringmanipulations.StringManipulations02" />
-      <module name="Bacth171" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day06swapvaluesstringmanipulations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,26 +97,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day07stringmanipulations.StringManipulations02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day07stringmanipulations.StringManipulations02" />
-      <module name="Bacth171" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day07stringmanipulations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P03" />
+        <item itemvalue="Application.P02" />
+        <item itemvalue="Application.P01" />
         <item itemvalue="Application.StringManipulation02" />
         <item itemvalue="Application.StringManipulations03" />
-        <item itemvalue="Application.day07stringmanipulations.StringManipulations02" />
-        <item itemvalue="Application.StringManipulations01" />
-        <item itemvalue="Application.StringManipulations02" />
       </list>
     </recent_temporary>
   </component>
