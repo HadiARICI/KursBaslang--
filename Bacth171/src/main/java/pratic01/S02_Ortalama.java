@@ -22,5 +22,6 @@ public class S02_Ortalama {
         DecimalFormat df = new DecimalFormat("0.00");
         String yeniFormat = df.format(ortalama);
         System.out.println("Sayıların ortalaması: " + yeniFormat);
+
     }
 }

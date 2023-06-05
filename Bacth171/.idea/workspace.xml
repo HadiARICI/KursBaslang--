@@ -31,35 +31,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.S09_IfStatement_DikUcgen">
-    <configuration name="G08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DayOdev.G08" />
-      <module name="Bacth171" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DayOdev.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="G09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DayOdev.G09" />
-      <module name="Bacth171" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DayOdev.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="G10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DayOdev.G10" />
+  <component name="RunManager" selected="Application.TeacherRunner">
+    <configuration name="Odev1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayOdev.Odev1" />
       <module name="Bacth171" />
       <extension name="coverage">
         <pattern>
@@ -84,6 +58,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TahminSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayOdev.TahminSayi" />
+      <module name="Bacth171" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DayOdev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeacherRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20statickeywordconstructors.TeacherRunner" />
+      <module name="Bacth171" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day20statickeywordconstructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="dff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DayOdev.dff" />
       <module name="Bacth171" />
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TeacherRunner" />
+        <item itemvalue="Application.TahminSayi" />
+        <item itemvalue="Application.Odev1" />
         <item itemvalue="Application.S09_IfStatement_DikUcgen" />
         <item itemvalue="Application.dff" />
-        <item itemvalue="Application.G10" />
-        <item itemvalue="Application.G09" />
-        <item itemvalue="Application.G08" />
       </list>
     </recent_temporary>
   </component>

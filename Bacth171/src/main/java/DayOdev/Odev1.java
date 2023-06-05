@@ -1,6 +1,32 @@
 package DayOdev;
 
+import java.util.Scanner;
+
 public class Odev1 {
+
+    public static void main(String[] args) {
+
+        Scanner scan=new Scanner(System.in);
+        System.out.println("Lütfen 1-100 arasında bir sayi giriniz");
+        int girilenSayi=scan.nextInt();
+        System.out.println("Lütfen Tahmini bir sayi Giriniz");
+        int tahmSayi=scan.nextInt();
+
+       do {
+
+
+        }while (girilenSayi==tahmSayi);
+
+            if (girilenSayi<tahmSayi){
+                System.out.println("büyük rakam giriniz");
+
+            } else if (girilenSayi>tahmSayi) {
+                System.out.println("küçük sayi giriniz");
+
+            }
+
+
+    }
     /*
         Amaç:
         Oyuncudan 1 ile 100 arasında bir sayı tahmini alarak rastgele bir sayıyı bulmaya çalışması istenir.
