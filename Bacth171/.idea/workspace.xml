@@ -31,7 +31,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BankaMatik">
+  <component name="RunManager" selected="Application.Sb03">
     <configuration name="BankaMatik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DayOdev.BankaMatik" />
       <module name="Bacth171" />
@@ -45,12 +45,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Odev1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DayOdev.Odev1" />
+    <configuration name="Ogrenci_Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratic03.Ogrenci_Runner" />
       <module name="Bacth171" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DayOdev.*" />
+          <option name="PATTERN" value="pratic03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S09_IfStatement_DikUcgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pratic01.S09_IfStatement_DikUcgen" />
+    <configuration name="S08_ArrayList_Menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratic03.S08_ArrayList_Menu" />
       <module name="Bacth171" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pratic01.*" />
+          <option name="PATTERN" value="pratic03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TahminSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DayOdev.TahminSayi" />
+    <configuration name="S10_ArrayList_OgrenciListesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratic03.S10_ArrayList_OgrenciListesi" />
       <module name="Bacth171" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DayOdev.*" />
+          <option name="PATTERN" value="pratic03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TeacherRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day20statickeywordconstructors.TeacherRunner" />
+    <configuration name="Sb03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day24stringbuilder.Sb03" />
       <module name="Bacth171" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day20statickeywordconstructors.*" />
+          <option name="PATTERN" value="day24stringbuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sb03" />
+        <item itemvalue="Application.S10_ArrayList_OgrenciListesi" />
+        <item itemvalue="Application.S08_ArrayList_Menu" />
+        <item itemvalue="Application.Ogrenci_Runner" />
         <item itemvalue="Application.BankaMatik" />
-        <item itemvalue="Application.TeacherRunner" />
-        <item itemvalue="Application.TahminSayi" />
-        <item itemvalue="Application.Odev1" />
-        <item itemvalue="Application.S09_IfStatement_DikUcgen" />
       </list>
     </recent_temporary>
   </component>

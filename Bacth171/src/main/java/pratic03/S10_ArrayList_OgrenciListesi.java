@@ -1,5 +1,9 @@
 package pratic03;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
 public class S10_ArrayList_OgrenciListesi {
     /*
         Soru: Bir öğrenci listesi tutan bir program yazmanız isteniyor.
@@ -14,4 +18,53 @@ public class S10_ArrayList_OgrenciListesi {
         Program, kullanıcının seçtiği işlemi gerçekleştirdikten sonra seçenekleri tekrar sunmalı ve
         kullanıcı programdan çıkmak istediğinde çıkış yapmalıdır.
     */
-}
+
+    public static void main(String[] args) {
+
+        //- Öğrenci ekleme: Kullanıcıdan bir öğrenci adı alacak ve öğrenciyi listeye ekleyecek.
+        List<String> OgrenciList = new ArrayList<>();
+        Scanner input = new Scanner(System.in);
+/*
+        String secenek;
+        do {
+            System.out.println("Öğrenci Adı Ekleyin: ");
+            String ogrenci = input.nextLine();
+
+            if (OgrenciList.contains(ogrenci)) {
+                System.out.println(ogrenci + " listede zaten var. Tekrar eklenemez.");
+            }
+            if (OgrenciList.contains(ogrenci)) {
+                OgrenciList.remove(ogrenci);
+                System.out.println(ogrenci + " Öğrenci Silindi.");
+            }
+
+
+           if (OgrenciList.contains(ogrenci)){
+                  OgrenciList.add(ogrenci;
+                   System.out.println(ogrenci + " Öğrenci eklendi.");
+
+            }
+
+            System.out.println("Başka yemek eklemek ister misiniz (E/H)");
+            secenek = input.nextLine();
+        }while (secenek.equalsIgnoreCase("E"));
+
+        System.out.println("_____________________");
+        System.out.println("Restoran Menüsü:");
+
+        for (String ogrenci : OgrenciList){
+            System.out.println(" -" + OgrenciList);
+        }
+
+ */
+
+        }
+    }
+
+
+
+
+
+
+
+
