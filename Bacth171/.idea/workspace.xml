@@ -26,18 +26,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/RAHMET/IdeaProjects/HadiYeniBaslangic",
+    "last_opened_file_path": "C:/Users/RAHMET/IdeaProjects/Bacth171",
     "onboarding.tips.debug.path": "C:/Users/RAHMET/IdeaProjects/Bacth171/src/main/java/org/example/Main.java",
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.VehicleRunner">
-    <configuration name="Ogrenci_Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pratic03.Ogrenci_Runner" />
+  <component name="RunManager" selected="Application.ArrayLists01">
+    <configuration name="ArrayLists01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21arraylists.ArrayLists01" />
       <module name="Bacth171" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pratic03.*" />
+          <option name="PATTERN" value="day21arraylists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -45,12 +45,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S08_ArrayList_Menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pratic03.S08_ArrayList_Menu" />
+    <configuration name="S05_StringBuilder_FaktoriyelHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratic04.S05_StringBuilder_FaktoriyelHesaplama" />
       <module name="Bacth171" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pratic03.*" />
+          <option name="PATTERN" value="pratic04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayLists01" />
+        <item itemvalue="Application.S05_StringBuilder_FaktoriyelHesaplama" />
         <item itemvalue="Application.VehicleRunner" />
         <item itemvalue="Application.Sb03" />
         <item itemvalue="Application.S10_ArrayList_OgrenciListesi" />
-        <item itemvalue="Application.S08_ArrayList_Menu" />
-        <item itemvalue="Application.Ogrenci_Runner" />
       </list>
     </recent_temporary>
   </component>

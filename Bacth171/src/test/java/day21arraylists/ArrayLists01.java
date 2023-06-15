@@ -109,6 +109,10 @@ public class ArrayLists01 {
             3) O method size neyi verir?
          */
 
+
+        String str = "Hello, World!";
+        System.out.println(str.substring(7, 12));
 }
+
 
 }
