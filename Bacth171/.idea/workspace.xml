@@ -26,7 +26,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/RAHMET/IdeaProjects/Bacth171/src/test/java/DayOdev",
+    "last_opened_file_path": "C:/Users/RAHMET/IdeaProjects/Bacth171",
     "onboarding.tips.debug.path": "C:/Users/RAHMET/IdeaProjects/Bacth171/src/main/java/org/example/Main.java",
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
@@ -38,7 +38,7 @@
       <recent name="C:\Users\RAHMET\IdeaProjects\Bacth171\src\test\java\SlackPage" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ElmasDeseni">
+  <component name="RunManager" selected="Application.Sets02">
     <configuration name="ArrayLists01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day21arraylists.ArrayLists01" />
       <module name="Bacth171" />
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S05_StringBuilder_FaktoriyelHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pratic04.S05_StringBuilder_FaktoriyelHesaplama" />
+    <configuration name="Sets01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29collections.Sets01" />
       <module name="Bacth171" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pratic04.*" />
+          <option name="PATTERN" value="day29collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day25inheritance.VehicleRunner" />
+    <configuration name="Sets02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29collections.Sets02" />
       <module name="Bacth171" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day25inheritance.*" />
+          <option name="PATTERN" value="day29collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sets02" />
+        <item itemvalue="Application.Sets01" />
         <item itemvalue="Application.ElmasDeseni" />
         <item itemvalue="Application.C01_ortala" />
         <item itemvalue="Application.ArrayLists01" />
-        <item itemvalue="Application.S05_StringBuilder_FaktoriyelHesaplama" />
-        <item itemvalue="Application.VehicleRunner" />
       </list>
     </recent_temporary>
   </component>
