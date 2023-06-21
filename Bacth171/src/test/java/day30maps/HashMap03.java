@@ -11,8 +11,7 @@ public class HashMap03 {
         //Stringimizi tum noktalama isaretlerinden temizledik
         String s = "I like you, like like!";
         s = s.replaceAll("\\p{Punct}", "");
-        System.out.println(s);//I like you like like
-
+        System.out.println(s);//I like you like
         //Kelimelerle calisacagimiz icin split(" ") ile string i kelimelere ayirdik
         String words[] = s.split(" ");
         System.out.println(Arrays.toString(words));//[I, like, you, like, like]

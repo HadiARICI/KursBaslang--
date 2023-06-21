@@ -1,0 +1,11 @@
+package BilgisayarBilimleri01;
+
+public class Soru {
+    /*
+    Abstraction
+Bir üniversite kurs yönetim sistemi tasarlıyorsunuz.
+Sisteme kaydedilen kurslar, ders adı, öğretmen adı, ders saati ve kurs ücreti gibi bilgilere sahiptir.
+Kurslar aynı zamanda farklı kategorilere ayrılmaktadır, örneğin bilgisayar bilimleri, işletme vb.
+Bu durumu abstraction (soyutlama) konseptiyle modellenen bir Java programıyla simüle edin.
+     */
+}
